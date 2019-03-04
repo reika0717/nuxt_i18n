@@ -1,0 +1,23 @@
+{
+  "name": "lang_test",
+  "version": "1.0.0",
+  "description": "My riveting Nuxt.js project",
+  "author": "Reika Hirahara",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "change-case": "^3.1.0",
+    "i18n": "^0.8.3",
+    "lodash": "^4.17.11",
+    "nuxt": "^1.0.0",
+    "vue-i18n": "^8.8.2"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1"
+  }
+}
